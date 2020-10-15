@@ -1,0 +1,30 @@
+{
+  "name": "scale",
+  "version": "1.0.0",
+  "description": "Automatically create spelling lists on SpellingCity.com",
+  "main": "app.js",
+  "dependencies": {
+    "node-tesseract-ocr": "^2.0.0",
+    "puppeteer": "^2.0.0",
+    "puppeteer-core": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caleywoods/scale.git"
+  },
+  "keywords": [
+    "tesseract",
+    "ocr",
+    "puppeteer"
+  ],
+  "author": "Caley Woods",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caleywoods/scale/issues"
+  },
+  "homepage": "https://github.com/caleywoods/scale#readme"
+}
